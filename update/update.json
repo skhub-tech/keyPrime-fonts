@@ -1,0 +1,13 @@
+{
+  "version_code": 2,
+  "version_name": "1.0.1",
+  "title": "KeyPrime v1.0.1 Update",
+  "description": "• Pure Black & White Onboarding and What's New dialog
+• Programmatic in-app APK download with live progress bar
+• Fast emoji downloads with instant cancellation
+• Fixed emoji switcher tab persistence
+• High performance typing optimizations",
+  "download_link": "https://github.com/skhub-tech/keyPrime-fonts/releases/download/v1.0.1/KeyPrime.apk",
+  "force_update": false,
+  "directapp": true
+}
