@@ -44,36 +44,5 @@
         }
       ]
     }
-  ],
-  "team": [
-    {
-      "name": "KeyPrime Core Team",
-      "role": "Maintainers & Core Contributors",
-      "description": "Building the most powerful, lightweight keyboard for Android.",
-      "socials": [
-        {
-          "type": "telegram",
-          "url": "https://t.me/keyprimeofficials",
-          "title": "Community"
-        },
-        {
-          "type": "github",
-          "url": "https://github.com/skhub-tech",
-          "title": "GitHub Org"
-        }
-      ]
-    },
-    {
-      "name": "Beta Testing Community",
-      "role": "Beta Testers & Reviewers",
-      "description": "Continuous feature testing and issue verification.",
-      "socials": [
-        {
-          "type": "telegram",
-          "url": "https://t.me/keyprimeofficial",
-          "title": "Telegram Channel"
-        }
-      ]
-    }
   ]
 }
