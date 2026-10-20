@@ -1,0 +1,79 @@
+{
+  "leadDevelopers": [
+    {
+      "id": "sahitya",
+      "name": "Sahitya Kanojiya",
+      "role": "Lead Developer & UI/UX Architect",
+      "socials": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/sahiitya",
+          "title": "Instagram"
+        },
+        {
+          "type": "telegram",
+          "url": "https://t.me/Sahiitya",
+          "title": "Telegram"
+        },
+        {
+          "type": "github",
+          "url": "https://github.com/Sahiitya",
+          "title": "GitHub"
+        }
+      ]
+    },
+    {
+      "id": "ravi",
+      "name": "Ravi Varma",
+      "role": "Lead Core & Engine Developer",
+      "socials": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/ravivarma",
+          "title": "Instagram"
+        },
+        {
+          "type": "telegram",
+          "url": "https://t.me/ravivarma",
+          "title": "Telegram"
+        },
+        {
+          "type": "github",
+          "url": "https://github.com/RaviVarma",
+          "title": "GitHub"
+        }
+      ]
+    }
+  ],
+  "team": [
+    {
+      "name": "KeyPrime Core Team",
+      "role": "Maintainers & Core Contributors",
+      "description": "Building the most powerful, lightweight keyboard for Android.",
+      "socials": [
+        {
+          "type": "telegram",
+          "url": "https://t.me/keyprimeofficials",
+          "title": "Community"
+        },
+        {
+          "type": "github",
+          "url": "https://github.com/skhub-tech",
+          "title": "GitHub Org"
+        }
+      ]
+    },
+    {
+      "name": "Beta Testing Community",
+      "role": "Beta Testers & Reviewers",
+      "description": "Continuous feature testing and issue verification.",
+      "socials": [
+        {
+          "type": "telegram",
+          "url": "https://t.me/keyprimeofficial",
+          "title": "Telegram Channel"
+        }
+      ]
+    }
+  ]
+}

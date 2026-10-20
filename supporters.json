@@ -1,0 +1,37 @@
+{
+  "supporters": [
+    {
+      "name": "KeyPrime Official Channel",
+      "role": "Official Video & Feature Updates",
+      "description": "Latest tutorials, custom fonts & emoji demonstrations.",
+      "youtube": "https://www.youtube.com/@keyprime",
+      "youtube_name": "KeyPrime Official",
+      "socials": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@keyprime",
+          "title": "YouTube Channel"
+        },
+        {
+          "type": "telegram",
+          "url": "https://t.me/keyprimeofficial",
+          "title": "Telegram"
+        }
+      ]
+    },
+    {
+      "name": "Sponsors & Content Creators",
+      "role": "Featured Creator & Community Backer",
+      "description": "Showcasing KeyPrime customizations and speed typing guides.",
+      "youtube": "https://www.youtube.com",
+      "youtube_name": "Creator Channel",
+      "socials": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com",
+          "title": "YouTube Channel"
+        }
+      ]
+    }
+  ]
+}
