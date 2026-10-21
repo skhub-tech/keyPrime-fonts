@@ -1,47 +1,36 @@
+
 {
   "team": [
     {
-      "name": "Sahitya Kanojiya",
+      "name": "Abhii",
+      "role": "Manager",
       "links": [
         {
           "type": "telegram",
-          "url": "https://t.me/Sahiitya",
+          "url": "https://t.me/iabhii28",
           "title": "Telegram"
-        },
-        {
-          "type": "github",
-          "url": "https://github.com/Sahiitya",
-          "title": "GitHub"
         }
       ]
     },
     {
-      "name": "Ravi Varma",
+      "name": "Sia",
+      "role": "Beta Tester",
       "links": [
         {
           "type": "telegram",
-          "url": "https://t.me/ravivarma",
+          "url": "https://t.me/squiraldot",
           "title": "Telegram"
-        },
-        {
-          "type": "github",
-          "url": "https://github.com/RaviVarma",
-          "title": "GitHub"
         }
       ]
     },
     {
-      "name": "KeyPrime Community",
+      "name": "AskXtylish",
+      "role": "Beta Tester",
       "links": [
         {
           "type": "telegram",
-          "url": "https://t.me/keyprimeofficials",
-          "title": "Community Group"
-        },
-        {
-          "type": "telegram",
-          "url": "https://t.me/keyprimeofficial",
-          "title": "Official Channel"
+          "url": "https://t.me/askxtylishh",
+          "title": "Telegram"
         }
       ]
     }
