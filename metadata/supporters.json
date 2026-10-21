@@ -1,39 +1,27 @@
 {
   "supporters": [
     {
-      "name": "Sponsors & Content Creators",
-      "role": "Featured Creator & Community Backer",
-      "description": "Showcasing KeyPrime customizations and speed typing guides.",
-      "youtube": "https://www.youtube.com",
-      "youtube_name": "Creator Channel",
+      "name": "Epic Trick",
+      "role": "Community Promotion Partner",
+      "description": "Helping KeyPrime grow by promoting the app and spreading the word through the Epic Trick Telegram community.",
+      "youtube": "",
+      "youtube_name": "",
       "socials": [
         {
-          "type": "youtube",
-          "url": "https://www.youtube.com",
-          "title": "YouTube Channel"
+          "type": "",
+          "url": "",
+          "title": ""
         },
         {
           "type": "telegram",
-          "url": "https://t.me/keyprimeofficials",
-          "title": "Telegram"
+          "url": "https://t.me/epictrickchannel",
+          "title": "Telegram Channel"
         }
       ]
-    },
-    {
-      "name": "Community Contributors",
-      "role": "Beta Testers & Font Creators",
-      "description": "Active community contributors helping test features and provide custom fonts.",
-      "socials": [
-        {
-          "type": "telegram",
-          "url": "https://t.me/keyprimeofficials",
-          "title": "Community"
-        },
-        {
-          "type": "github",
-          "url": "https://github.com/skhub-tech/keyPrime-fonts",
-          "title": "GitHub"
-        }
+    }
+  ]
+}
+
       ]
     }
   ]
