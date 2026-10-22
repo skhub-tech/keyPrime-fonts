@@ -1,0 +1,37 @@
+[
+  {
+    "id": "font1",
+    "name": "Font 1",
+    "fileName": "font1.ttf",
+    "downloadUrl": "https://github.com/skhub-tech/keyPrime-fonts/releases/download/fonts/font1.ttf",
+    "previewText": "KeyPrime Keyboard"
+  },
+  {
+    "id": "font2",
+    "name": "Font 2",
+    "fileName": "font2.ttf",
+    "downloadUrl": "https://github.com/skhub-tech/keyPrime-fonts/releases/download/fonts/font2.ttf",
+    "previewText": "KeyPrime Keyboard"
+  },
+  {
+    "id": "font3",
+    "name": "Font 3",
+    "fileName": "font3.ttf",
+    "downloadUrl": "https://github.com/skhub-tech/keyPrime-fonts/releases/download/fonts/font3.ttf",
+    "previewText": "KeyPrime Keyboard"
+  },
+  {
+    "id": "font4",
+    "name": "Font 4",
+    "fileName": "font4.ttf",
+    "downloadUrl": "https://github.com/skhub-tech/keyPrime-fonts/releases/download/fonts/font4.ttf",
+    "previewText": "KeyPrime Keyboard"
+  },
+  {
+    "id": "font5",
+    "name": "Font 5",
+    "fileName": "font5.ttf",
+    "downloadUrl": "https://github.com/skhub-tech/keyPrime-fonts/releases/download/fonts/font5.ttf",
+    "previewText": "KeyPrime Keyboard"
+  }
+]
